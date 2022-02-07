@@ -1,0 +1,25 @@
+{
+  "candidatos": [
+    {
+      "id": 1,
+      "nome": "Márcio Barros",
+      "curso": "Engenharia de Software",
+      "cidade": "Sobral",
+      "celular": "(88) 99999-0000"
+    },
+    {
+      "nome": "Marcos",
+      "curso": "Computação",
+      "cidade": "Sobral",
+      "celular": "(88) 99999-4374",
+      "id": 2
+    },
+    {
+      "nome": "Lucas",
+      "curso": "Informática",
+      "cidade": "Sobral",
+      "celular": "(88) 99999-0000",
+      "id": 3
+    }
+  ]
+}
